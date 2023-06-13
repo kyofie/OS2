@@ -1,0 +1,13 @@
+Instructions to execute the file:
+
+Run the following commands in terminal with the directory that file is present in:
+g++ Assgn4-Src-CO21BTECH11008.cpp 
+./a.out
+
+Note:
+inp-params.txt should be in the same folder as the source code (the file that contains the values of P,C,lambda1,lambda2,k)
+output file will be generated in the same folder as above
+
+
+
+

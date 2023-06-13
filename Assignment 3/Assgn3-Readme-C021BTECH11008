@@ -1,0 +1,16 @@
+Instructions to execute the file:
+
+Run the following commands in terminal with the directory that file is present in:
+g++ Assgn3-Src-ProgName-CO21BTECH11008.cpp (where ProgName is one of the following: tas, cas, cas-bounded)
+./a.out
+
+Note:
+inp-params.txt should be in the same folder as the source code (the file that contains the values of n,k,lambda1,lambda2)
+output files will be generated in the same folder as above
+Output file names:
+a)For TAS: output_tas
+b)For CAS: output_cas
+c)For CAS with bounded-waiting: output_casbw
+
+
+
